@@ -11,15 +11,18 @@ At the end it will show the **rewards panel** so you can get some extra points
 
 ## Usage
 
-At first, runs at your terminal:
+1. At first, runs at your terminal:
 
 ```bash
 pip install -r requirements.txt
 ```
-
 or
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Afterwards, runs bing_search.ipynb in your notebook or bing_search.py at your terminal
+2. Afterwards, runs bing_search.ipynb in your notebook or if you preferer to runs at your terminal, runs:
+
+```bash
+python bing_search.py
+```
