@@ -13,8 +13,8 @@ pyautogui.press('enter')
 # limpa_pesq = ['/', 'backspace']
 # voltar = ['alt', 'left']
 
-words_size = 3 # amount of words that will be search
-url_words = 'https://random-word.ryanrk.com/api/en/word/random/{words_size}'
+words_amount = 35 # amount of words that will be search
+url_words = 'https://random-word.ryanrk.com/api/en/word/random/{words_amount}'
 url_bing = 'https://rewards.bing.com/'
 data = req.get(url_words).text
 
