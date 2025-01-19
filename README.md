@@ -26,3 +26,5 @@ python -m pip install -r requirements.txt
 ```bash
 python bing_search.py
 ```
+
+You can define amount of words that will be searched editing **words_amount** variable.
